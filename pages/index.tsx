@@ -10,7 +10,7 @@ const Home = () => {
 				<title>River's Portfolio Website</title>
 			</Head>
 			<div className='bg-pink-500'>
-				<p className="text-center py-3 px-3 text-xl">River's Portfolio</p>
+				<p className="text-center py-3 px-3 text-6xl">River's Portfolio</p>
 
 				<Navbar />
 				<div className="grid place-items-center h-screen border-8 border-slate-300 m-10 bg-red-200">
